@@ -1,0 +1,82 @@
+[
+	{
+		"Ques": "Who is the author of this story?",
+		"A": "Khushwant singh",
+		"B": "Rabidranath Tagore",
+		"C": "J.K Rowling",
+		"D": "James Bond",
+		"Ans": "C"
+	},
+	{
+		"Ques": "What is the author's last name",
+		"A": "singh",
+		"B": "Tagore",
+		"C": "Rowling",
+		"D": "Bond",
+		"Ans": "C"
+	},
+	{
+		"Ques": "What is the name of the book?",
+		"A": "Train to the haven",
+		"B": "Gitanjali",
+		"C": "Harry Potter",
+		"D": "A beautiful mind",
+		"Ans": "C"
+	},
+	{
+		"Ques": "Who is the main character of the story",
+		"A": "Valdamort",
+		"B": "Potter",
+		"C": "Sirius",
+		"D": "doumbledor",
+		"Ans": "B"
+	},
+	{
+		"Ques": "What type of story is this?",
+		"A": "fantasy",
+		"B": "horror",
+		"C": "comedy",
+		"D": "war",
+		"Ans": "A"
+	},
+	{
+		"Ques": "how many modules are there of the story?",
+		"A": "two",
+		"B": "five",
+		"C": "seven",
+		"D": "nine",
+		"Ans": "B"
+	},
+	{
+		"Ques": "when it was released?",
+		"A": "1990",
+		"B": "1998",
+		"C": "2004",
+		"D": "2009",
+		"Ans": "C"
+	},
+	{
+		"Ques": "who is the villain in the story?",
+		"A": "valdamort",
+		"B": "sirius",
+		"C": "Harry Potter",
+		"D": "rose",
+		"Ans": "C"
+	},
+	{
+		"Ques": "the story is about which location?",
+		"A": "london",
+		"B": "barlin",
+		"C": "kolkata",
+		"D": "its fantasy",
+		"Ans": "D"
+	},
+	{
+		"Ques": "according to story,harry's father was-",
+		"A": "cook",
+		"B": "Wizard",
+		"C": "teacher",
+		"D": "driver",
+		"Ans": "B"
+	}
+]

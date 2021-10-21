@@ -1,0 +1,83 @@
+
+{
+"Ques":"Who is the author of this story?",
+"a":"Khushwant singh",
+"b":"Rabidranath Tagore",
+"c":"J.K Rowling",
+"d":"James Bond",
+"ans":"J.K Rowling"
+},
+{
+"Ques":"What is the author's last name",
+"a":"singh",
+"b":"Tagore",
+"c":"Rowling",
+"d":"Bond",
+"ans":"Rowling"
+},
+{
+"Ques":"What is the name of the book?",
+"a":"Train to the haven",
+"b":"Gitanjali",
+"c":"Harry Potter",
+"d":"A beautiful mind",
+"ans":"Harry potter"
+},
+{
+"Ques":"Who is the main character of the story",
+"a":"Valdamort",
+"b":"Potter",
+"c":"Sirius",
+"d":"doumbledor",
+"ans":"potter"
+},
+{
+"Ques":"What type of story is this?",
+"a":"fantasy",
+"b":"horror",
+"c":"comedy",
+"d":"war",
+"ans":"fantasy"
+},
+{
+"Ques":"how many modules are there of the story?",
+"a":"two",
+"b":"five",
+"c":"seven",
+"d":"nine",
+"ans":"five"
+},
+{
+"Ques":"when it was released?",
+"a":"1990",
+"b":"1998",
+"c":"2004",
+"d":"2009",
+"ans":"2004"
+},
+{
+"Ques":"who is the villain in the story?",
+"a":"valdamort",
+"b":"sirius",
+"c":"Harry Potter",
+"d":"rose",
+"ans":"Harry potter"
+}
+{
+"Ques":"the story is about which location?",
+"a":"london",
+"b":"barlin",
+"c":"kolkata",
+"d":"its fantasy",
+"ans":"its fantasy"
+},
+{
+"Ques":"according to story,harry's father was-",
+"a":"cook",
+"b":"Wizard",
+"c":"teacher",
+"d":"driver",
+"ans":"wizard"
+}
+
+
